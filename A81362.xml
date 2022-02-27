@@ -1,0 +1,502 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the seige of Basing castle; kept by the Lord Marquisse of Winchester, for the service of His Maiesty: against, the forces of the rebells, under command of Colonell Norton, Anno Dom. 1644.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81362</idno>
+            <idno type="STC">Wing D1170</idno>
+            <idno type="STC">Thomason E27_5</idno>
+            <idno type="STC">ESTC R8325</idno>
+            <idno type="EEBO-CITATION">99873279</idno>
+            <idno type="PROQUEST">99873279</idno>
+            <idno type="VID">125744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E27[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the seige of Basing castle; kept by the Lord Marquisse of Winchester, for the service of His Maiesty: against, the forces of the rebells, under command of Colonell Norton, Anno Dom. 1644.</title>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the University,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason annotation: "[illegible] Feb:".</note>
+                  <note>Thomason copy bound with items dated Feb. 3.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norton, Richard, 1614 or 15-1691.</term>
+               <term>Winchester, John Paulet, --  Earl of, 1598-1675.</term>
+               <term>Basing House (England) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125744:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION of the SEIGE of BASING CASTLE;</p>
+            <p>Kept by the LORD MARQVISSE OF WINCHESTER, for the Service of HIS MAIESTY: AGAINST, The Forces of the Rebells, under Com<g ref="char:EOLhyphen"/>mand of Colonell NORTON, <hi>Anno Dom.</hi> 1644.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, Printer to <hi>the <g ref="char:V">Ʋ</g>niverſity.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125744:2"/>
+            <pb n="1" facs="tcp:125744:2"/>
+            <head>A DESCRIPTION OF THE SIEGE OF BASING CASTLE.</head>
+            <div type="part">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">B</seg>Aſing</hi> Caſtle, the Seat and Manſion of the Marquiſſe of <hi>Wincheſter,</hi> ſtands on a riſing ground, having its forme circular, encompaſſed with a Brick Rampart, lyned with earth and a very deep trench, but dry; The loftie Gate-houſe with foure Turrets looking Northwards, on the right whereof without the compaſſe of the Ditch a goodly building containing two faire Courts; before them is the <hi>Graunge,</hi> ſevered by a Wall and com<g ref="char:EOLhyphen"/>mon roade, againe divided from the foot of <hi>Cowdreys Downe</hi> by Meades, Rivilets, and a River running from <hi>Baſingſtoake,</hi> a mile diſtant upon the Weſt, though <hi>Baſing</hi> Towne joyning upon the Eaſt, the South ſide of the Caſtle hath a Parke, and toward <hi>Baſing</hi> Towne a little Wood, the place ſeated and built as if for Royaltie having a proper Motto. <hi>Aymez Loyalte.</hi> Hither (the Rebellion having made houſes or pleaſure more unſafe) the Marquiſſe firſt re<g ref="char:EOLhyphen"/>tired, hoping integrity and privacy might have here preſerved his quiet; But the ſource of the times villany, bearing downe all before it, neither allowing newtrality or permitting Peace, to any that deſired to be leſſe ſinfull then themſelves, enforceth him to ſtand upon his guard which with his Gentlemen Armed with ſix Muſ<g ref="char:EOLhyphen"/>quets (the whole remainder of a well furniſhed Armory) he did ſo well, that twice the enemies attempts proved vaine.</p>
+               <pb n="2" facs="tcp:125744:3"/>
+               <p>But finding their numbers in thoſe parts (after the Loſſe of <hi>Reading</hi>) grown more formidable, their forces quartering round a<g ref="char:EOLhyphen"/>bout him, he ſolicited His MAJESTY for one hundred Muſque<g ref="char:EOLhyphen"/>tiers, which (being ſent under command of Lieutenant Colo<g ref="char:EOLhyphen"/>nell <hi>Peake</hi>) marching with ſpeed and Secrecy the 31. of <hi>Iuly</hi> 1643. were thruſt into the place, which from that time became a Garriſon; it's former fortune ſtill continuing, Colonell <hi>Harvey</hi> and Colonell <hi>Norton,</hi> within a few houres after attempting to ſurprize it, being not only beaten off, but the ſame night forced retreat to <hi>Farnham.</hi>
+               </p>
+               <p>The place is then begunne according to the quantity of men now added, to be fortified, and ſome time after upon report of a puiſſant Army, under command of Sir <hi>William Waller,</hi> to be appoin<g ref="char:EOLhyphen"/>ted for the taking of it in: Colonell <hi>Rawdon</hi> with the reſt of his Re<g ref="char:EOLhyphen"/>giment (being about one hundred and fifty more) is commanded thither. The Lord Marquiſſe taking forth Commiſſions as Colonell and Governour, for the raiſing of more forces for defence of the ſame.</p>
+               <p>
+                  <hi>Novemb.</hi> 6. ſhewes <hi>Waller</hi> with the expected Army (conſiſting of ſeaven thouſand Horſe and Foot) before the Houſe; where ha<g ref="char:EOLhyphen"/>ving lyen nine daies, and three times ſtorming it, he againe retires to <hi>Farnham,</hi> having diſhonoured and bruiſed his Army, whereof abundance were loſt, without the death of more then two in the Garriſon, and ſome little injury to the Houſe by Battery.</p>
+               <p>He thus drawne off, and His MAJESTIES Army, under com<g ref="char:EOLhyphen"/>mand of the <hi>Lord Hopton,</hi> advancing two daies after, affords the Li<g ref="char:EOLhyphen"/>berty of farther fortifying, which thus (as time and number would permit) made up, is rather ſtrong then Regular.</p>
+               <p>The enſuing Spring the Rebells, as well conſulting the impor<g ref="char:EOLhyphen"/>tance of the place, as the injuries ſuffered by it, both in their Trade and Force, reſolve (having before aſſayed it by Surprize and Storme) to try by ſtarving it, to which their Armies ſix weeks Quartering at <hi>Farnham, Odiam, Grewell,</hi> and <hi>Baſingſtoake,</hi> was a preparative, harrowing the Country about untill their March to <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>June.</hi> 4. 1644.</head>
+               <p>At what time Colonell <hi>Norton</hi> drawing ſome forces from the adjacent Garriſons, by Order of their pretended Parliament, is to block up the Houſe, and (by the treachery of a Souldier giving in<g ref="char:EOLhyphen"/>telligence
+<pb n="3" facs="tcp:125744:3"/>two daies before) defeating a party of the Garriſon drawn out to <hi>Odiam,</hi> and taking diverſe Priſoners upon the fourth of <hi>Iune</hi> faced the Houſe with a Regiment of Horſe and Dragoones, and after ſome houres ſtand Quartered in <hi>Baſingstoake,</hi> each day (his Foot not yet come up) keeping his guards of Horſe upon our Aveneues to ſtop the fetching in Proviſion.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 11.</head>
+               <p>Colonell <hi>Morleyes</hi> Regiment of ſixe Colours of Blew from <hi>Suſ<g ref="char:EOLhyphen"/>ſex,</hi> and Sir <hi>Richard Onſlowes</hi> Regiment of five of Red, from <hi>Sur<g ref="char:EOLhyphen"/>rey,</hi> with two of White from <hi>Farnham,</hi> and three freſh Troops of Horſe fetched in by <hi>Nortons</hi> Regiment, are all drawne up before the Houſe, upon the South of <hi>Baſingstoake;</hi> The Companies of White at Evening, with one Troop of Horſe, marching to <hi>Sherfield,</hi> Sir <hi>Richard Onſlowe,</hi> with his Troop of Horſe to <hi>Anwell</hi> houſe, and <hi>Morleyes</hi> Foot with Colonell <hi>Nortons</hi> Horſe quarter in <hi>Ba<g ref="char:EOLhyphen"/>ſingstoake.</hi> During the time of lying at this diſtance, viſiting us with horſe (with whom entertaining skirmiſhes at their returne) were uſually made worſe with little loſſe to us.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 15.</head>
+               <p>To ſee the countenance of the Enemy, fifty Foot are ſent toward <hi>Baſingstoake,</hi> under the covert of a Mill and hedge, whileſt our Horſe forced theirs into the Towne, they reenforced, ours orderly retreat, drawing them on in danger of our Foot, who galling them, they ſtand the comming of their owne, 'twixt whom ſome Vol<g ref="char:EOLhyphen"/>lyes being ſpent, ours are Commanded in.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 17.</head>
+               <p>The Enemies horſe ſeize on two Teemes of ours, fetching Pro<g ref="char:EOLunhyphen"/>viſion towards <hi>Sherfield,</hi> and three horſe grazing in the Parke. At night, the Companies of white quarter in <hi>Baſing</hi> Towne, and for<g ref="char:EOLhyphen"/>tifying the Church, next day from the adjoyning houſes ſhot two of our men; And being now come here, our numbers few, we divide our men into three parts, keeping two thirds on duty, whileſt the other reſt, appointing to each Captaine and his Company a particu<g ref="char:EOLhyphen"/>lar Guard, dividing the Quarters of the Garriſon to the Field Offi<g ref="char:EOLhyphen"/>cers, <hi>viz.</hi> to Major <hi>Cuffand,</hi> the workes adjoyning to the Parke; to Major <hi>Langley,</hi> thoſe in the gardens; to Lievtenant-Colonell <hi>John<g ref="char:EOLhyphen"/>ſon,</hi> the care of the <hi>Graunge;</hi> to Colonell <hi>Rawdon,</hi> the workes next the Towne; and diſpoſe of the Guns to Lievtenant Colonell <hi>Peake;</hi> the Troopers fitted with Muskets, and part of his Foot Company as a Reſerve for ſupply of all places as any need required; The Liev<g ref="char:EOLhyphen"/>tenant Colonells and Majors by courſe being Captaines of the
+<pb n="4" facs="tcp:125744:4"/>watch, Colonell <hi>Rawdon,</hi> onely in this excuſed by reaſon of his yeares.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 18.</head>
+               <p>The Regiment of Blew from <hi>Baſingstoake</hi> releeve the White, on whom at midnight ſallying forth, we Fired one of the houſes which annoyed us; but the next night ſallying againe, we Fired all betweene us and the Church, themſelves at ſame time Firing ſome beyond, by which their workes growne hot, ſome flye into the hed<g ref="char:EOLhyphen"/>ges, others further off. But at the ringing of the Bells (their cuſtome upon all Alarmes) reliefe comming on all ſides, ours retreat; they that night Quartering round the Parke under the favour of the hedge and pale, where they continue till next Evening, and with continuall Firing kill us one Sentinell, and hurt another.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 20.</head>
+               <p>The following day, the Parke being cleared, and they returned to quarter, and their guard at Church, our Horſe are put into it, and 12 Muſqueteers lodged at the corner of the Lane in covert of the hedge, ſome Officers of theirs thinking the Lane ſecure are blooded from the hedge, and hardly ſcape to <hi>Baſingstoake,</hi> our Horſe purſu<g ref="char:EOLhyphen"/>ing them, and whileſt their guard on <hi>Cowdryes Downe</hi> perceiving it, Troop to their reſcue; ours are recalled, and ſent up by the <hi>Graunge</hi> to Fire their Quarter, which is done, and one of them brought in; At ſame time, more of theirs riding along the Lane, our Muſqueteers killing the horſe of Colonell <hi>Greaves</hi> his Brother, take him Priſoner, the Colonell and the reſt eſcaping to purſue their Iourney to the <hi>Weſt.</hi> Two howers after, a Trumpet is ſent in from Colonell <hi>Norton</hi> to demand his liberty, under pretence of being a Traveller, but is returned with a propoſall of Exchange, next day two of Sir <hi>Richard Onſlowes</hi> Foot are taken in the Parke, and a third killed.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 24.</head>
+               <p>Finding a ſufferance by our Liberty reſolving now more ſtreightly to begirt us, two Companies more from <hi>Portſmouth,</hi> be<g ref="char:EOLhyphen"/>ing joyned to thoſe of <hi>Farnham</hi> in the Towne, the Regiment of Blew is drawne into the Parke, and Colonell <hi>Onſlowes</hi> to the Lane and Cloſe towards <hi>Baſingstoake,</hi> where having fixed their quarters, they preſently breake ground, ſhutting us up on three ſides with their Foot, and on the other ſide their guards of horſe keeping on <hi>Cowdreyes Downe,</hi> at night buſying themſelves with Spade and Pick-axe to ſecure their Quarters, three of ours runne to them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 26.</head>
+               <p>Some Musketeers are ſent by the point of <hi>Baſingstoake</hi> (a Bul<g ref="char:EOLhyphen"/>warke)
+<pb n="5" facs="tcp:125744:4"/>to view their lodging in the Lane, and to cut downe ſome Trees blinding a ruined Mill, from whence they played on us, both which are done and divers of them killed, with loſſe of two of ours; At night they run a Line toward the Mill, where we had galled them the day before, next night a Party of horſe Firing upon their Sentinells on <hi>Cowdreyes Downe,</hi> much amuſe their guards, whileſt others of them are ſent by to <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jun.</hi> 29.</head>
+               <p>Their worke in the Parke is brought to ſome perfection, and by noone their Cannon Baskets placed make knowne they had a Cul<g ref="char:EOLhyphen"/>verin there, giving us ſixe ſhot thence. Next day being Sunday (their Cauſe allowes not now for Sabboth) doubling their diligence throughout the Leaguer, forwarding the Sconce at <hi>Morleyes</hi> Quar<g ref="char:EOLhyphen"/>ters in the Parke, and on the Towne ſide towards a Mill, drawing a Line from the Church. At <hi>Onſlowes</hi> Quarter raſing a platforme in the Lane with ſo much ſpeed, that the next morning a Demy-Cul<g ref="char:EOLhyphen"/>verin playes from it; at night our Meſſenger from <hi>Oxford</hi> inform<g ref="char:EOLhyphen"/>ing us His Majeſties ſucceſſe againſt <hi>Waller</hi> at <hi>Cropready,</hi> We Ec<g ref="char:EOLhyphen"/>choe it to our neighbours with Volleys both of ſmall and great, they anſwering with their Guns, battering our Kitchin and Gate<g ref="char:EOLhyphen"/>houſe, till a ſhot from our platforme ſpoyling the Carriage, ſilen<g ref="char:EOLhyphen"/>ced their Demy-Culverin.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 3.</head>
+               <p>Their Lines being run within halfe Musket ſhot, by their con<g ref="char:EOLhyphen"/>tinuall Firing powring their Lead into the Garriſon, they ſpoyle us two or three a day, paſſing within our workes, and ſhoot the Mar<g ref="char:EOLhyphen"/>quiſſe himſelfe through his Cloathes, the Carriage of their peece being repaired, they now renew their Battery on the Houſe unto the detriment and topping of our Towers and Chimnies.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 8.</head>
+               <p>This morning they aſſay to draw us forth by making an Alarme to themſelves (leaving their peice neglected without a guard) but faile; at Evening a Priſoner eſcaping from them under the hazard of 100 ſhot ſo chafed them, that they continue Firing untill mid<g ref="char:EOLhyphen"/>night; and ſhot two of our men next morning: foure Companies of Red from <hi>Surrey,</hi> comming to the reliefe of Colonell <hi>Onſlowes</hi> men, marching too neare, have three ſhot placed amongſt them from our Minion, making them change their march to Troop at fur<g ref="char:EOLhyphen"/>ther diſtance.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 11</head>
+               <p>One Company from <hi>Southampton</hi> of ſevenſcore, march't by the way of <hi>Hackwood</hi> unto <hi>Hollowayes Mill;</hi> with which (and thoſe
+<pb n="6" facs="tcp:125744:5"/>foure Companies come in two dayes before) <hi>Morley</hi> is now ſo rai<g ref="char:EOLhyphen"/>ſed in his hopes that making uſe of Colonell <hi>Nortons</hi> abſence (am<g ref="char:EOLhyphen"/>bitious of the honour, but of ſummoning the next day being out Faſt adding to our afflictions) ſends by a Drum this harſh demand;</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Lord,</salute>
+                     </opener>
+                     <p>TO avoid the effuſion of Chriſtian blood, I have thought fit to ſend your Lordſhip this Summons to demand <hi>Baſing</hi> houſe to be deli<g ref="char:EOLhyphen"/>vered to me for the uſe of <hi>King</hi> and <hi>Parliament;</hi> if this be refuſed the enſuing inconveniences will reſt upon your ſelfe, I deſire your speedy anſwer and Reſt; My Lord,</p>
+                     <closer>
+                        <signed>Your humble ſervant HERBERT MORLEY.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The Marquiſſe, upon ſmall deliberation, return'd M<hi rend="sup">r</hi> 
+                  <hi>Morley</hi> this Anſwere.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>IT is a crooked demand, and ſhall receive its anſwer ſutable, I keep the houſe in the right of my Soveraigne, and will doe it in de<g ref="char:EOLhyphen"/>spight of your Forces; your Letter J will preſerve as a teſtimony of your Rebellion.</p>
+                     <closer>
+                        <signed>WINCHESTER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This anſwer being return'd by the Drum with a <hi>Haſt haſt haſt poſt haſt</hi> upon the Letter, <hi>Morley</hi> ſpeaks his choller from his Gunns, which now and ſome daies following playd on our <hi>Waterhouſe;</hi> Colonell <hi>Onſlowes</hi> men curteouſly permitting eight of our Foot to fetch ſix Beaſts grazing before their Workes. At night Coronet <hi>Bryan,</hi> and ſome Troopers, paſſing a Meſſenger by <hi>Cowdreys down,</hi> bring in two Priſoners.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 18.</head>
+               <p>A Bonefire in the Park, with two Volleys throughout their Lea<g ref="char:EOLhyphen"/>guer, ſpeake their Committees welcome unto <hi>Baſingſtoake.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 20.</head>
+               <p>A party of our Muſquetiers fall out upon them in the Lane, and having done ſome execution there, retreat; a Captain of Colonell <hi>Morley's</hi> being ſhot dead at ſame time from our works; two houres after comes a Drum with Letters for exchange of Priſoners, but ra<g ref="char:EOLhyphen"/>ther to informe us <hi>Norton's</hi> ſafe returne from the defeat of <hi>Waller,</hi> and gain time to draw a Morter-peece more covert to their trench; from whence (their Drum return'd) they ſend us a Granado of 801 next night, concluding their devotion and the day with thundering
+<pb n="7" facs="tcp:125744:5"/>from their Culverins, two paſſed through the Quarters where our ſick men lay, but without hurt.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 22.</head>
+               <p>Their Lines are much advanced, and their Sconce flanking their Battery in the Parke finiſhed, the Marquiſſe himſelfe hurt by a ſhot, and two men killed by chance ſhot, and the Carriage of our Cabonet broke from their Culverin; The following night being darke and Stormy, we diſpatch our Meſſenger. Eight Priſoners taking the op<g ref="char:EOLhyphen"/>portunity doe the ſame for themſelves to their Leaguer making our allowance of great ſhot to be next day doubled, and at night more Granadoes.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 25.</head>
+               <p>The trenches on the Towne ſide in the Meades flote with the quantity of raine that fell, thereby forcing them, lye more open to our Towers from whence our Markes men ſpoyled divers, whileſt on the other ſide our men draw covert to a Blind, and doe as much upon them: in the Lane at night two peeces charged with Caſe, ſo luckily are placed upon them (working upon their Lines) that they were heard complaine their ſuffering.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 26.</head>
+               <p>Early this morne the Blind againe being manned, an Officer with more of theirs are killed; and a Trooper of our owne afterward fetching a Hog and Cowe neare the ſame place occaſioning ſome ſervice from the Blind and Bulwarke they receive more loſſe. The Evening ſpending with diſpute between our great Guns, they adde ſixe Granades, one falling in our Granary, ſpoyled ſome Corne, and two miſſed Firing; at night two Souldiers run to them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 27.</head>
+               <p>This morning ſhewes a traverſe Croſſe the Cloſe from the burnt Mill, flanking our way unto the aforeſaid Blind, and in the Parke the encloſing of the nearer ſide of an old Orchard ſecuring <hi>Morleyes</hi> Quarter. At night from out their Morrer peece, they ſhot us ſixe great ſtones ſized with the Granades of 361, with each day continu<g ref="char:EOLhyphen"/>ing like allowance, theſe and the Granades for a while ſeemed troubleſome, but afterwards become by cuſtome ſo familiar to the Souldier, that they were called, as they counted them, <hi>Bables,</hi> their miſchiefes onely lighting on the houſe, and that the leſſe, our Courts being large and many.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July.</hi> 30.</head>
+               <p>They plant a Culverin by <hi>Baſing</hi> Church, from thence battering a Tower, on which our Markes men ſtood, that much annoyed that Quarter, continuing ſhot from both their other platformes; This day ends the yeare of the places being Garriſon'd, and the ſecond
+<pb n="8" facs="tcp:125744:6"/>month of the Leaguer, next day a platforme is begun by the Wood ſide, within halfe Muſquet ſhot of <hi>Baſing</hi> Bulwarke. Towards Eve<g ref="char:EOLhyphen"/>ning paying the ſhot (it having been their Faſt) they ſpared all the day: At night running a trench from the Church to their worke by the Wood, and (by foure men which laſt night run to them) per<g ref="char:EOLhyphen"/>ſwaded of ſtrange executions done by ſtones and Granades ſend us ſtore, one whereof Firing our Hay falling into the Barne, had done much hurt, had not our diligence ſoon quenched it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 1.</head>
+               <p>Our men tyred with length of 48 houres duty are now divided into two parts relieving every 24: our Gentlemen and Troopers doing the ſame; and here I cannot paſſe them over without due Commendations, all the time of the Leaguer undergoing the duty of Foot (that of Sentries onely except) going forth in all Sallies, as well on Foot with Muſquets or Browne-Bill, as otherwiſe on Horſeback, as occaſion was; and for ſeven weeks time keeping their Horſes with graſſe and Sedge, which in the nights they cut under Command of the Rebells workes with hazard of their lives.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 4.</head>
+               <p>Perceiving the intention of the Rebells rather to ſtarve then ſtorme us, and the doubt of a more potent Army now removed, which hitherto had made us frugall of our men (already few in number and much ſpent with labour) as well to animate our men diſmayed through divers wants and raigning of the pox, as alſo to annoy the Rebels, retard their workes, and gaine by Priſoners, ſomewhat of their condition: We reſolve upon advantages to make ſome Sallies, and finding then an opportunity, a Party of their Foot lying at hazard upon <hi>Cowdreys Downe</hi> in <hi>Wallers</hi> work, Liev<g ref="char:EOLhyphen"/>tenant <hi>Cuffand</hi> with about 20 Horſe is ſent to fall on them, whileſt Coronet <hi>Bryan</hi> with like number riding at rate, is to cut in betwixt them and the hedge, where ſtood their guard of Horſe, who ſeeing themſelves thus unexpectedly charged, ſuddenly rout, flying to <hi>Baſingstoake,</hi> and are purſued with execution on them, almoſt to the Towne, the Coronet bringing in their Colours, Trumpet, ſeven Horſes, and three Troopers, beſides what ſlaine and maim<g ref="char:EOLhyphen"/>ed; of the Foot eleaven killed on the place, and foure brought in; our men returning under Command of their Cannon without the loſſe of a man; At firſt of the Alarme, they apprehending it, a Party with reliefe, began to flye the Parke, till informed better, and a<g ref="char:EOLhyphen"/>gaine returning, they ſpend their heat at diſtance with their Guns
+<pb n="9" facs="tcp:125744:6"/>and Mortar-peece, we learning from the Priſoners their intention to batter upon <hi>Baſing</hi>-Bulwarke from their new platforme by the Wood, lay on all hands for Lyning it, as yet being very weak there, labouring without enforcing us to doe the like within our workes, in many places ſlender and no where finiſhed, of which defects our Renegades giving them information neceſſitates us worke to fruſtrate their reports.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 5.</head>
+               <p>Their guard at <hi>Wallers</hi> worke is doubled, and ſtrengthened with Pikes, keeping their guard of Horſe by exerciſe in better readi<g ref="char:EOLhyphen"/>neſſe; In the Parke ſide their Lines advance toward both our plat<g ref="char:EOLhyphen"/>formes, and their worke by the Wood forwarded, liberally be<g ref="char:EOLhyphen"/>ſtowing great Shot, Stones and Granades, of which they ſend us of three ſeverall ſorts, beſides their hand Granades.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 10.</head>
+               <p>Colonell <hi>Whitheads</hi> new raiſed Regiment of five Companies, marching through <hi>Baſingstoake</hi> to <hi>Cowdreys Downe,</hi> take up their Quarters in the Delue, for whoſe welcome and entertainment (with ſome ſport) they founder a round Tower in the old Caſtle, by their Battery; in requitall whereof next morning, Major <hi>Cuf<g ref="char:EOLhyphen"/>fand</hi> with 6 Files of Muſqueteers and 20 Troopers with Browne-Bills, falling into the Parke attacque, their outward Lines, where killing ſome of them, burning their Blinds and Baskets, they bring off one of their Mortar peeces and ſtore of Armes and Tooles; with having two men hurt. Lievtenant <hi>Snow</hi> with 20 Muſqueteers and 12 with Bills during the amazement falling upon their Quar<g ref="char:EOLhyphen"/>ter in the Lane with execution on them, breaking their Demy-Cul<g ref="char:EOLhyphen"/>verin, Firing their guard and Baskets, and from hence with Armes and Tooles bring in ſome Ammunition. Theſe Sallies were ſo much unto their loſſe, and toucht ſo neare their honour, That <hi>Oram</hi> (Cap<g ref="char:EOLhyphen"/>taine of the Guards) for vindication muſt be brought to tryall, and for neglect and Cowardiſe (running as others then and after did) holding correſpondence with the place, (where no man knew him) and ſending in Ammunition (which was never received) with the hazard of life is Caſhiered their ſervice; A ſentence much like that againſt the Earle of <hi>Strafford</hi> made with caution not to be brought to preſident for after times, leaſt it too nearly might con<g ref="char:EOLhyphen"/>cerne themſelves: At night proviſion for our Horſe being ſpent, we make a worke beyond the <hi>Graunge</hi> neare the Foot of <hi>Cowdreys Downe,</hi> ſecuring the Meades for our Troopers in darke nights to fetch in graſſe.</p>
+               <pb n="10" facs="tcp:125744:7"/>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 12.</head>
+               <p>We ſee them buſied making proviſion of Baskets, Bruſh, and Turfe, to goe on with their workes; which for ſome daies lay ſtill, filling their Baskets now with graſſe to ſave their fireing; and in the meane time ply their Culverins.</p>
+               <p>At night an Alarme beating through their Quarters, we expect according to the noyſe, but they ſtay quiet till between three and foure, what time a Trumpet ſounding on <hi>Cowdreys Downe,</hi> from forth the Delue, they fall upon us, buſied at our new worke with 50 Muſquetiers, but ſoon draw back; at ſame time 60 more by favour of a Wood, had gotten to the ditch under our platforme, where fired on by the Guard in the Parke Bulwarke flanking the ditch, they returned in haſt leaving ſome Armes behind, having three Guns with caſe ſhot powred on their reare, for which they ſend us plenty from their ſeverall Guards. And now begin a trench into the Parke from the Lane ſide, the better to ſecure that quarter, running it toward their great Work, meaning to cloſe their Lines through<g ref="char:EOLhyphen"/>out their Leaguer. Next day they ſpare their great ſhot, but at night give us a falſe Alarme.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 14.</head>
+               <p>Towards evening Lievtenant <hi>Cuffand</hi> and Cornet <hi>Bryan</hi> each with twenty Horſe and forty Muſquetiers, Sally upon the Downe againe, beating the Foot from <hi>Wallers worke,</hi> and the Horſe guard from their Poſt, purſuing them to <hi>Baſingſtoake,</hi> whence ſtrengthe<g ref="char:EOLhyphen"/>ned with freſh Horſe, they force ours to retreat, take Cornet <hi>Bry<g ref="char:EOLhyphen"/>an</hi> and one Trooper, wound three others, and kill Enſigne <hi>Amery,</hi> ours having done abroad good execution bring in Lievtenant <hi>Coo<g ref="char:EOLhyphen"/>per,</hi> a Corporall of Horſe, and ſeven more of theirs; from whom we learne, <hi>Morley</hi> foure dayes before was ſhot in the ſhoulder viewing his workes in the Parke; The two next dayes were ſpent in Parlee for releaſe of Priſoners. They ſending us one wounded, we returne them three, offering Lievtenant <hi>Cooper</hi> and the Corpo<g ref="char:EOLhyphen"/>rall (both ſtout men, wounded, and taken fighting) for our <hi>Coronet,</hi> but would not be accepted, ſo much they valued him; the Parlee ended they play as formerly, at night ſending three Granades, whereof one failed them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 17.</head>
+               <p>They bring Baskets to <hi>Wallers worke,</hi> and the Delue where they had wrought the former dayes to raiſe a Battery, and to ſecure themſelves, learning our Sally intended the beating up that Quar<g ref="char:EOLhyphen"/>ter, and had been done, had not our Horſe purſuing them too farre,
+<pb n="11" facs="tcp:125744:7"/>engaged our Foot to ſecure their retreat; for at the firſt they ran, carrying their Colours with them from the Delue, though 300 men were ſaid to Quarter in it; but animated with comming in of more, and drawing to the hedges in the Meade ſome-Muſquetiers from <hi>Hollowayes Mill,</hi> they againe make good the place ſtreightening our Horſe retreat; at Evening planting a Culverin there, they play from thence, and from the peece at Church, this night three run to them, and one the night before.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 19.</head>
+               <p>This day getting their Demy Canon to the worke by the wood, they batter us, with 48 ſhot; and the two following dayes with eight ſcore more, the leaſt whole Culverin, with which and with Granades they killed two men, and miſchieved two more, break our beſt Iron Gun, and make a breach in one of our ſquare Towers: The injury of the worke before it, the Officers and Souldiers putting hand to Spade repaire, making it Canon proof, before ſcarce Drake.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 22.</head>
+               <p>This day they are more ſparing, and permit the night enjoy its proper ſilence, diſturbed onely by ſuch, whoſe baſeneſſe prompted them with hope to gaine by craft, what by their force they could not, ſhooting Notes fixed to arrowes with proffers of preferment to the Souldier, perſwading Mutinies, and labouring diviſions 'twixt the Regiments, leaving no ſtone unturned; but all in vaine, except the gaining ſome faint hearted Knaves, The following dayes ſend<g ref="char:EOLhyphen"/>ing of Croſſe barre, ſhot Loggs bound with Iron hoops, Stones, and Granades, whereof two miſſed firing; Two more run to them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 25.</head>
+               <p>Their Battery neare the Wood having much torne the Tower, they now begin on that ſide next the Towne, within Piſtoll ſhot to make a worke, to batter it from thence; In the meane time conti<g ref="char:EOLhyphen"/>nuing ſhooting from their other Guns, they kill two men and maime a third; And in the Parke they ſhew a Sowe made for their Muſquetiers, thruſting before them for to play behind; this night two run to them, and next night foure; inforcing us to ſeaſonable juſtice in executing one who had attempted to have gone with them, by which our Souldiers were ſo faſtned, that for a long time not one man that ſtirred, though our neceſſities grew faſt on us, now drinking water, and for ſome weeks paſt making our bread, with Peaſe and Oates, our ſtock of Wheat being ſpent.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 28.</head>
+               <p>The Lines from <hi>Onſlowes</hi> Quarter are brought on with a redoubt upon it, oppoſite to <hi>Baſingstoake</hi> Bulwarke, and having broke their
+<pb n="12" facs="tcp:125744:8"/>Culverin, at the Delue, ſupplying it they play againe from thence, and in the night ſteal off five Horſes grazing in the Meades; next night two Troopers cutting graſſe, our River by the Mill being drawne downe, enforce us make a Damme raiſing the water to ſecure the <hi>Graunge.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 2.</head>
+               <p>At noone with Letters for Exchange of Priſoners we receive this Summons.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Lord,</salute>
+                     </opener>
+                     <p>THeſe are in the name and by the authority of the Parliament of England, the higheſt Court of Juſtice in this Kingdome, to de<g ref="char:EOLhyphen"/>mand the Houſe and Garriſon of <hi>Baſing,</hi> to be deliveeed to me to be dispoſed of according to Order of Parliament. And hereof I expect your Anſwer by this Drum within one hower, after the receipt hereof, in the meane time, I reſt</p>
+                     <closer>
+                        <dateline>From the Quarters before <hi>Baſing,</hi> 
+                           <date>the <hi>2.</hi> of <hi>Sept.</hi> in the afternoone.</date>
+                        </dateline>
+                        <signed>Yours to ſerve you RICH: NORTON.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>To which the Lord Marquiſſe inſtantly diſpatcht this Anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>WHereas you demand the Houſe and Garriſon of <hi>Baſing</hi> by a pretended authority of Parliament, I make this Anſwer, That without the King thore can be no Parliament, by His Majeſties Commiſſion I keep the place, and without His abſolute Command ſhall not deliver it to any pretenders whatſoever, I am</p>
+                     <closer>
+                        <dateline>Baſing. <date>
+                              <hi>2. Sept.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Yours to ſerve you WINCHESTER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 4.</head>
+               <p>This Anſwer ſent: From their new Battery by the Towne in ſixe houres time they thunder ſixſcore ſhot Cannon and Culverin; with which they Founder one of our great Brick Towers, from whence we had annoyed that Quarter, their ſmall ſhot playing thick this day, they kil'd us three, and hurta woman. The rubbiſh of the Tower filling the end of a Curtain under it, we cut off the other by a traverſe, lyning the Bulwarke where their ſhot had run: next day their great ſhot is reduced to 20; their Cannon by the former heat being made at fault, is this day drawne to <hi>Farnham,</hi> The night brings on their Line at <hi>Graunge,</hi> blocks up our way to the <hi>Downe,</hi>
+                  <pb n="13" facs="tcp:125744:8"/>and ſlights the worke we had made, by us ſome dayes before deſer<g ref="char:EOLhyphen"/>ted, now growne too hot and wanting men to keep it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aug.</hi> 4.</head>
+               <p>The day of promiſed reliefe our men in readineſſe, Noon come and no appearance of them, unwilling to be idle, we reſolve a Sal<g ref="char:EOLhyphen"/>lie; Lievtenant <hi>Snow,</hi> Lievtenant <hi>Byfeild,</hi> and Enſigne <hi>Outram,</hi> each with 12 Troopers, with Browne Bills, and 18 Muſquetiers are ſent at once to fall on <hi>Onſlowes</hi> Quarters in three parts, which is ſo well performed, that gaining their redoubts, they draw their Demy-Culverin neare our workes, bring but three Priſoners in, our Gaole being full, and having loſt three men by the Enemies Caſe ſhot, and one hurt, retreat; the great Guns being plyed on both ſides, ſome of ours luckily fell upon them at the Delue. Sir <hi>William Waller</hi> with two Troopes of Horſe, two houres before arrived at <hi>Baſingstoake,</hi> came forth to ſee the ſport, and with his Horſe facing the Houſe too neare on <hi>Cowdreys Downe,</hi> they had their Captaine killed with round ſhot from our workes. In this dayes ſervice by confeſſion of our Enemies they had 60 common Souldiers killed, and 12 dangerouſly wounded, beſides two Gunners and two Liev<g ref="char:EOLhyphen"/>tenants, one whereof belonged to Sir <hi>William,</hi> and brought by curi<g ref="char:EOLhyphen"/>oſity to ſee the Leaguer was there ſlain: of ours, beſides the former, we had three ſleightly hurt with durt beat up by Culverin ſhot. At night we endeavour to fetch off the Gun, but find it heavy, they having doubled Guards, we place 12 Muſquetiers to wait the en<g ref="char:EOLhyphen"/>gaged peece.</p>
+               <p>This day and next ſpends 50 ſhot from their new platforme, by battering downe a ſtack of Chimnies, making a large breach in the new building; toward night we ſee two Companies of Foot march<g ref="char:EOLhyphen"/>ing by <hi>Hackwood</hi> Weſtward, followed next Evening by two Com<g ref="char:EOLhyphen"/>panies more, two Waggons and twelve Troops of Horſe; Next day againe at noone ceaſing their Battery, permit us to ſee two Regi<g ref="char:EOLhyphen"/>ments of twenty Companies follow the Horſe had paſſed, two companies of White turne into <hi>Baſingſtoake</hi> and their Artillery, ten of ſeverall ſorts conveyed by one Company more of Yellow. This night we expect Alarmes, and were well prepared having for foure nights ſince kept all our men upon duty. But it paſſeth with<g ref="char:EOLhyphen"/>out diſturbance, more then that of tongues, boaſting their Army to be next day ſhewed us, which Sir <hi>Williams</hi> haſt into the Weſt per<g ref="char:EOLhyphen"/>mit<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not; And well ſatisfied with Wedneſdaies Sally, the ſtrife for
+<pb n="14" facs="tcp:125744:9"/>plunder of the houſe maintained with ſo much pertinacy between his men and <hi>Nortons</hi> ceaſed, and we againe with our old gueſts are left to try it out, grown now ſo mute upon this parting, as in 48 houres we heare but of two Culverin ſhot, next day recovering heart, they tell us 22, and reſting ſome daies paſt, now find their worke again.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 11.</head>
+               <p>Silent till towards evening, ten great ſhot; at night our Meſſen<g ref="char:EOLhyphen"/>ger <hi>Edward Jeffery</hi> aſſures the certainty of our reliefes advance to <hi>Aldermarſton,</hi> and taking of ſome Scouts, we then make fires up<g ref="char:EOLhyphen"/>on the Gatehouſe in ſigne of notice, and of readineſſe, though (through the Fogge) it hardly could be ſeen to the next hill. By ſeaven next morne, the Noble Colonell <hi>Gage</hi> with Horſe and Foot paſt through ſo many hazards, had attained <hi>Chinham Downe,</hi> where Colonell <hi>Norton</hi> with his ſtrength having intelligence did ſtand in readineſſe. And now what here was done I ſhall referre to what hath been ſaid by others from ſome one preſent there, which may relate to each his due deſert, in all ſo much, That notwithſtanding all advantages of place, and Men freſh and prepared againſt tyred Troops and wearied Foot, a Fogge ſo thick as made the day ſtill night, helping the ſhrowding of his Ambuſcades, and clouding paſ<g ref="char:EOLhyphen"/>ſes unto ſuch who neither knew nor could diſcern a way more then their Valour and the Sword did cut, and Maugre all, with executi<g ref="char:EOLhyphen"/>on forced his retreat the Fogge befriending him ſerving as covert, for his ſafer flight through <hi>Baſingſtoake,</hi> the day then clearing, and report of fight brought near the Garriſon, Lievtenant Colonell <hi>Johnſon</hi> with ſome Muſquetiers iſſuing by the <hi>Graunge,</hi> beates them from off their Line, purſues them to the Hill, and thence unto the Delue, cleering that Quarter with ſo ſmall defence as is incre<g ref="char:EOLhyphen"/>dible. The paſſe thus cleared, meeting our welcome friends, our joyes are ecchoed, whileſt the ſad Priſoners are led in to ſee the Houſe they lay ſo long about, their number 64 Common Souldi<g ref="char:EOLhyphen"/>ers, two Sergeants, one Lievtenant, whereof the wounded were next day ſent forth unto the care of their owne Chirurgeons, and two that ran from us had execution.</p>
+               <p>The Ammunition brought put in, and the Lord <hi>Marquiſſe</hi> viſi<g ref="char:EOLhyphen"/>ted by his worthy friends, they return to <hi>Cowdreys Downe;</hi> whence the Horſe under ſome hazard of the Enemies Guns retreat to <hi>Chin<g ref="char:EOLhyphen"/>ham,</hi> thence 100 Muſqueteers being ſent unto the Houſe, they
+<pb n="15" facs="tcp:125744:9"/>march through <hi>Baſing-ſtoake,</hi> facing the Rebells workes whileſt 14. barrells of powder and 100. Armes found in the towne, and what proviſion of all ſortes could be got, were ſent into the Garri<g ref="char:EOLhyphen"/>ſon, where 100. Muſqueteers under command of Major <hi>Cuffand,</hi> ſeconded with like number of ſupplies led forth by Captaine <hi>Hull,</hi> attacque the line on <hi>Baſing</hi> ſide, take in that quarter and the Church which they had fortified. In it 2. Captaines (Captaine <hi>Iohn Iephſon</hi> and Captaine <hi>Iarvas,</hi>) 1. Leivtenant, 2. Sergeants, and about 30. Souldiers the reſt by ſeverall wayes eſcaping. During the former fight their Guns being drawn from off that platform to their workes in the park; Sir <hi>Richard Onſlowes</hi> quarter towards <hi>Baſing-ſtoake,</hi> that fatall place againe is taken in the skonces ſleighted; and their peice brought in by Muſqueteers, led by Leivtenant-Colonell <hi>Peak,</hi> their Tents and Huts fiered neere <hi>Holloway Mill,</hi> the enemy ſo haſtening from theſe workes as ſcarcely 3. could be made ſtay the killing.</p>
+               <p>Thus might we ſee at once, three of their Quarters blaze, onely one (well fortified and their remaining ſtrength drawne in) is left them quiet.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 1</head>
+               <p>The next day is imployed in ſending warrants forth, fetching proviſion from the adjacent Townes, and getting in a Culverin the enemies haſt had left neere to the wood, which they permitted us with ſo much tameneſſe, as called our men to fall upon their workes, but moſt part of our foot then buſied abroad theſe are commanded off having a Sergeant and 5. others ſhot, whereof they after died, care being taken for ſuch Gentlemen of our releife as had been hurt, night comming on, intelligence of enemies appearing from the townes neere <hi>Silckeſter</hi> and drawing towards <hi>Kingſcleare,</hi> Colonell <hi>Gage</hi> ordering his horſe and foot to be in readineſſe, having ſupplied the Garriſon as much as ſhortneſſe of his ſtay gave leave, about 11. at night takes Conge of the place, marching the way of <hi>Reading,</hi> leaving the enemy next morne amuſed with a letter for exchange of Captaine <hi>Love</hi> for <hi>Jephſon,</hi> which by noone was done; and they by it aſſured the certainty of his retreat to <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 14</head>
+               <p>The towne of <hi>Baſing</hi> not yet repoſſeſt, a hundred Muſqueteers are ſent under command of Captaine <hi>Fletcher</hi> to guard our Carts fetch<g ref="char:EOLhyphen"/>ing proviſion thence, on whom the enemy with horſe and foot falls out towards evening, <hi>Norton</hi> himſelfe there preſent, ours taken in diſorder are beat back, but ſoone reſtored by the comming forth of
+<pb n="16" facs="tcp:125744:10"/>the field Officers, and they forced back into their workes, ſixteen of them being ſlaine in the retreat and 11 taken, of ours an Enſigne and two common Souldiers killed, ſix hurt, whereof 4. dyed, and 8 made priſoners, Leivtenant Colonel <hi>Iohnſon</hi> Doctor of Phyſique, was here ſhot in the ſhoulder, whereby contracting a Feaver he dy<g ref="char:EOLhyphen"/>ed a f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght after, his worth challenging Funerall teares, being no leſſe eminent in the Garriſon for his valour and conduct, as a Soul<g ref="char:EOLhyphen"/>die<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, then famous through the Kingdom for his excellency as an H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bariſt, and Phyſician. The following week keeping the towne with guards we fetch proviſion, ſleight their platforme, and throw down their workes without the leaſt Alarm.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 23.</head>
+               <p>The Rebels againe falling upon our guard in towne, ours are commanded in, having repleniſhed our ſtore for ſome weeke time, and wanting men to ſpare. The Church by them thus repoſſeſt, they now enlarge themſelves and keep us to our workes, of late too looſ<g ref="char:EOLhyphen"/>ly growne familiar in the towne. This day two Gentlemen of our releife was exchanged from <hi>Reading</hi> for three of theirs with us. Next day a party of our Horſe are ſent forth by the Grange to face their guard on <hi>Cowdrey,</hi> whil'ſt our foot draw in twenty fat hoggs from of the Downe, their Scouts draw back unto their Guards kept near to <hi>Baſing-stoak</hi> whence ſtrengthned ours orderly retreating, are purſued neer to a hedg lyned with our Muſqueteers, who ſalving them, they quickly face about, having ſwormd out the number of 5 Troopes. The morrow entertaines them in like manner whileſt our men ſpoyling their platform at the Delve, bring in their planke and timber.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 27.</head>
+               <p>Some of our horſe ſporting on <hi>Cowdreys</hi> Downe, and there amu<g ref="char:EOLhyphen"/>ſing them, ſix others through the Parke Lane toward <hi>Baſing-ſtoake</hi> fetch in eight of their foot paſſing unto their Leaguer. And a water leveller imployed for the drawing of our River, <hi>Morley</hi> himſelfe hardly eſcaping them, cauſing ſome foot come forth to ſtop our horſe retreat, are galled by our Muſqueteeres purpoſely lodged in covert. An houre after we receive a Drum from Colonell <hi>Norton,</hi> for the ſending out ſome gentlemen to treat the change of Priſo<g ref="char:EOLhyphen"/>ners, and is returnd with fixing of a day.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sept.</hi> 29.</head>
+               <p>The Stage of <hi>Coudrey</hi> furniſh'd again with Actors, a Coronet and three more of theirs are killed and one of ours, At night (the mor<g ref="char:EOLhyphen"/>row being a Faire at <hi>Baſingſtoke,</hi>) ſix Foot with Piſtoll and Browne
+<pb n="17" facs="tcp:125744:10"/>Bill are ſent to try the Market, and foure miles off at a Committees houſe finding to ſerve their turne, from thence bring in twenty three head of Cattle by the Delve, which paſſe our dayly skirmiſhing kept free, nex day informed the enemy imploed in fortifying the Church, ſometimes kept but a careleſſe Guard, 100 Muſqueteeres led forth by Maj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Cuffaud</hi> are ſent to force the place, and having gained a worke, wanting wherewith to force the doore, theirs comming faſt to reſcue, ours retreat having a Sergeant and ſix Soul<g ref="char:EOLhyphen"/>diers ſhot in the attempt, whereof moſt dyed, of theirs an Enſigne and ſome others ſlaine.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Octob.</hi> 2.</head>
+               <p>We ſend forth Captain <hi>Roſewell</hi> and Captain <hi>Rigby</hi> ſecur'd by Hoſtages, with inſtructions to treat releaſe of Priſoners. The ſame night M. <hi>Greaves,</hi> and Captain <hi>Iarvis,</hi> next day two Lieutenants with diverſe more ſent out receiving Captain <hi>Rowlet,</hi> a Lieutenant, and two Sergeants loſt at <hi>Odiham,</hi> and ſome daies after Coronet <hi>Bryan</hi> and three Gentlemen of our releefe releaſed to <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Octob.</hi> 4.</head>
+               <p>This and the eight daies following our Horſe and theirs change Piſtolls upon <hi>Cowdreys</hi> downe, they having number we advantage of a hedge with Muſqueteers, ſo as the odds was ours, and three or foure of theirs was daily carried off, we all the while looſing one Horſe and two Foot Souldiers, at night ſend forth our Chapmen well furniſhed and good Market folkes, in five houres time returne with 25 Beaſts under the noſes of their Sentinells, ſome Meſque<g ref="char:EOLhyphen"/>teers of ours lying abroad for their ſecurity.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Octob.</hi> 17.</head>
+               <p>Paſt noon from off our Towers, we ſee the Van of <hi>Mancheſters</hi> Army Marching to <hi>Baſingſtoake</hi> and <hi>Sherfield;</hi> next day ſome of his Horſe viſit the Leaguer, and by our Markes-men two of them are ſhot, the following day eight Regiments of Foot and ſome of Horſe with all their Carriage and Artillery, drawn on the South of <hi>Baſing-ſtoake</hi> facing the Houſe, make halt ſome houres, and towards night returne into the Towne, moſt of their Horſe which all the day had ſtood at two miles diſtance neere <hi>Rooks</hi> downe, at night with haſt enough Troop to their Quarters towards <hi>Farnham.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Octob.</hi> 20.</head>
+               <p>Three Foot Souldiers comming too neare to ſee the Houſe re<g ref="char:EOLhyphen"/>ceive the curteſy of fetching in, and next day by our Foot in Am<g ref="char:EOLhyphen"/>buſh in the lane a Cornet of Sir <hi>Williams</hi> Regiment and two Dra<g ref="char:EOLhyphen"/>goones were taken, our Horſe from off the Hill fetch in two ſtrag<g ref="char:EOLhyphen"/>ling Foot, at noon ſome Regiments of Horſe and Foot belonging to
+<pb n="18" facs="tcp:125744:11"/>the Earle of <hi>Eſſex,</hi> joyne to the Leaguer, their Army toward e<g ref="char:EOLhyphen"/>vening drawn in Battalia, that night keep the field, the Van neare <hi>Rooks</hi> Downe, the Battle at <hi>Baſing-Stoake,</hi> and Reere by <hi>Hack<g ref="char:EOLhyphen"/>wood,</hi> next day Marching the Army towards <hi>Reading,</hi> the Foot by <hi>Sherbone,</hi> and the Horſe keeping along their left, the following day three Troopers more brought in, keeping our Horſe abroad to wait on them. At night part of a ruined Tower falling by Tem<g ref="char:EOLhyphen"/>peſt on five of our men, killing one, and ſomewhat bruiſed the reſt.</p>
+               <p>Lievtenant <hi>Cuffand</hi> with ſome 40 Horſe charging their Guardi<g ref="char:EOLhyphen"/>an <hi>Cowdrey's-downe,</hi> ſpoiling five Horſes &amp; as many men, takes one of theirs, with loſſe of one of ours; next day facing their Horſe a<g ref="char:EOLhyphen"/>gaine, whileſt Coronet <hi>Bryan</hi> with ſome few Horſe fetcht off a Load of Corne, driving neere to their Guard. And riding through the Garriſon from off th'other ſide, bring in a Cart and Teame paſ<g ref="char:EOLhyphen"/>ſing to <hi>Baſing-ſtoake,</hi> Theſe Carts did help us in 3 following nights, ſecured with Convoyes, to fetch in 5 quarters of threſht Corn, and 12 load in the ſheafe from <hi>Piats hill,</hi> the ſame nights furniſhing us 14 Beaſts, they ſome dayes after keeping at thoſe Barnes a Guard of Horſe and Foot, releived each night at nine.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nov.</hi> 1.</head>
+               <p>Our ſlender ſtock of Bread and Corne, that of Beere being ſpent, invites the ſending forth Lievtenant Colonell <hi>Peake</hi> with Horſe and Foot, to try what yet could more be done at <hi>Piats</hi> Hill, where comming about eight at night, finding their Fires, but their guards gone off: taking two Priſoners begin their worke, loading their Carts, and ſending them away continuing ſo till 12, what time their Horſe from <hi>Sherfield</hi> comming down the hill, and Foot from <hi>Baſing</hi> drawing up, fall on our Guards, and for ſome time diſpute it, but our Foot from the lyned hedges having gauled their Horſe, give way to ours to draw theirs farther off, whileſt their Foot acquain<g ref="char:EOLhyphen"/>ted with the ground ſtrive to poſſeſſe the hedges ſome of ours main<g ref="char:EOLhyphen"/>tained, but an Alarum from the Caſtle given upon the Church, and our Horſe now freed of thefts, cauſe them retreate, driving them through the River, they thus beat off, we to our Worke againe, and by the morning carry in 16 Cart loads in ſheafe, our Drovers at ſame time paſſed through our Guards eight Beaſts, at noon next day ſome Souldiers ſte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ping out ſeize on 12 ſides of Mutto<g ref="char:cmbAbbrStroke">̄</g> &amp; ſome Pork loaded upon a Horſe as contribution food going unto the Church.</p>
+               <pb n="19" facs="tcp:125744:11"/>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nov.</hi> 5.</head>
+               <p>Our Beere being now ſpent, the Officers content themſelves with water, having for ten dayes paſt ſpared one meale a day, and now perſwade the Souldiers who as yet had two, this cauſeth one at night to run away, telling our wants unto our Enimies, now ani<g ref="char:EOLhyphen"/>mating them, before diſhartened, had not the comming in of <hi>Strowds</hi> and <hi>Ludlowes</hi> horſe with ſome Dragoones faſtened thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Leaguer, almoſt on remove.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nov.</hi> 6.</head>
+               <p>Coronet <hi>Bryan</hi> with a party of Horſe uſing the benefit of a fogge, getting into the Bottome neere to <hi>Baſing-ſtoake,</hi> ſteales off three Sentryes, and placing there his owne, after a while with<g ref="char:EOLhyphen"/>out the noiſe of Piſtoll, takes a Corporall and two Troopers more comming to their reliefe, This was a welcome to <hi>Strowdes</hi> new-come Horſe. At night Major <hi>Cuffand</hi> with Horſe and Foot killing a Sentinell, and beating off their Horſe, cleereth the paſſe to <hi>Pi<g ref="char:EOLhyphen"/>ats Hill,</hi> and ſendeth forth our men for Beaſts, but the enemies Horſe that night too much abroad, make void this Journey; two runne to him, one of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em with a horſe.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nov.</hi> 9.</head>
+               <p>The like party ſent out at night under Command of Major <hi>Roſe<g ref="char:EOLhyphen"/>well,</hi> beating their Foot from a worke throwne upon the paſſe at the Delue (their Horſe not daring come too neer the hedges) poſſeſſe the Avenues, to <hi>Piats-Hill,</hi> then ſending forth our Graſiers, who in foure houres time returne with eighteen Beaſts our Guards in meane while from the Barnes thereby paſſing ſix Load of Corne in ſheaffe and ſecuring two Meſſengers on ward to <hi>Oxford,</hi> one ſent three nights before being taken by the enemy.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nov.</hi> 13.</head>
+               <p>Colonell <hi>Ludlowes</hi> Trumpiter is taken upon <hi>Cowdreys downe,</hi> next day a Regiment of Foot ſhewing themſelves at <hi>Chinham,</hi> march to <hi>Baſing-ſtoake;</hi> And the morrow a Trumpet from Sir <hi>William</hi> for his Coronet is return'd with naming an Exchange; a<g ref="char:EOLhyphen"/>nother bringing in two Officers of ours that long had layen at <hi>Farn<g ref="char:EOLhyphen"/>ham,</hi> for them carryes out ſeaven of theirs, wee taking care to fill their roomes againe, within two houres after fetch in one and kill two more abroad, There Army now againe hovering about, afford us ſport, each day killing or taking ſome of their curious ones. And ſeaze two Carts, one with a Load of Hay paſſing too neere our workes.</p>
+               <p>The enemy wearied with Lying 24 weeks, diſeaſes, with the Winter ſeazing them, his Army waſted from 2000 to 700, fearing
+<pb n="20" facs="tcp:125744:12"/>the forces of His Majeſty now moving about <hi>Hungerford,</hi> raiſeth his Leaguer, and at eight this morne drew off his Waggons, and two Gunnes, three dayes before brought in, The Foot at noone march toward <hi>Odgiham,</hi> the Hots being fired, and ſome Troopes of Horſe left to ſecure their reere, On whom a party of our Horſe with Coronet <hi>Bryan</hi> waiting their opportunityes diſorder their re<g ref="char:EOLhyphen"/>treat.</p>
+               <p>Next night honoured Sir <hi>Henry Gage</hi> (the enemies remove not knowne) ſent by His Majeſty with 1000 Horſe brings in ſupplies of Ammunition and Proviſion, each trooper in a bagge beating his part having a skeene of Match ſwadled about his waſt beſides what brought in Carts, and ſtaying here three dayes moſt amply victualled the Garriſon (drawn down by length of Seige, almoſt unto the worſt of all neceſſityes, Proviſion lowe, the Souldiers ſpent and naked, and the numbers few, having beſides our hurt and maimed, and ſuch as runne from us, loſt neere 100 men by ſickneſſe, and the Seige, whereof a Lievtenant Colonell, two Enſignes, three Sergeants, and ſeaven Corporals.</p>
+            </div>
+            <div type="part">
+               <p>I ſhall end all with theſe obſervations <hi>viz.</hi> That ſeldome hath been a Sei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e wherein the preſervation of the place more imediatly might be imputed to the hand of God, That the Souldiers in ſo long a Seige with all the ſufferings incident thereto, ſhould never Mutiny; Nor that that the cuſtomary Liberty at all our Parlyes for to meet and talke wrought any treachery, Wants of Proviſions al<g ref="char:EOLhyphen"/>wayes ſo ſupplyed as if by miracle, during the Leaguer; wee not having leſſe then ſeavenſcore uſeleſſe mouthes, that had releife come at the time appointed, <hi>Waller</hi> then hovering with his force at <hi>Farnham</hi> in probability a hazard whether they had releived us, or preſerved themſelves. Or had <hi>Norton</hi> (able to bring three times, their numbers forth) when the next weeke they came, drawne out his ſtrength, or had wee not got Powder from them, that, by our releife ſcarſe ſerving till the Seige was raiſed; or when we were releived, had they not ſuffered us to poſſeſſe the Towne a weeke, thereout ſupplying our ſelves for horſe and man, before not having for above three weekes, Or had they when we firſt fetcht Corne from <hi>Piats Hill,</hi> or fired or removed it.</p>
+               <p>But God that holdeth all things in his hand, appointing times and ſeaſons: ordereth all that tends unto thoſe ends he wils; in vain it
+<pb n="21" facs="tcp:125744:12"/>therfore were to Villiſy the enemy; blaming his valor or deſcretion, Or yet to ſay the care and diligence of the Lord <hi>Marquiſſe</hi> Gover<g ref="char:EOLhyphen"/>nour, the skill and valour of the Officers, the courage and obedi<g ref="char:EOLhyphen"/>ence of the Souldiers, (though all theſe did their parts) had thus preſerved the place, in vain we watch and ward, except God keepe the Houſe. Let no man therefore ſpeake himſelfe an inſtrument, onely in giving thankes that God had made him ſo, for here was evidently ſeen <hi>He choſe the weake to confound the ſtrong, Non Nobis Domine.</hi> Not unto us, not unto us O Lord. but to thine owne name be all Glory for ever, AMEN.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
